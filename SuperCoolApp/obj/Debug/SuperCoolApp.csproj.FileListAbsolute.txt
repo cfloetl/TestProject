@@ -1,0 +1,6 @@
+C:\Dev\SupplyCore\Learning\_Production\SuperCoolApp\SuperCoolApp\bin\Debug\SuperCoolApp.exe.config
+C:\Dev\SupplyCore\Learning\_Production\SuperCoolApp\SuperCoolApp\obj\Debug\SuperCoolApp.csprojResolveAssemblyReference.cache
+C:\Dev\SupplyCore\Learning\_Production\SuperCoolApp\SuperCoolApp\bin\Debug\SuperCoolApp.exe
+C:\Dev\SupplyCore\Learning\_Production\SuperCoolApp\SuperCoolApp\bin\Debug\SuperCoolApp.pdb
+C:\Dev\SupplyCore\Learning\_Production\SuperCoolApp\SuperCoolApp\obj\Debug\SuperCoolApp.exe
+C:\Dev\SupplyCore\Learning\_Production\SuperCoolApp\SuperCoolApp\obj\Debug\SuperCoolApp.pdb
